@@ -76,11 +76,13 @@ public class MenuJFrame extends FrameModel {
     public MenuJFrame(int id) {
         this.id_auth = id;
         initComponents();
+        
         this.setResizable​(true);
     }
 
     public MenuJFrame() {
         initComponents();
+        AuthentificationJFrame.getInstance().hideFrame();
        //  ZKScanner.getInstance().open();
        // JOptionPane.showMessageDialog(instance,, "Message", JOptionPane.WARNING_MESSAGE);
     }

@@ -21,6 +21,7 @@ jframes\EmpreinteJFrame$2.class
 jframes\CollaborateurJframe$8.class
 jframes\UtilisateurJframe$3.class
 jframes\CollaborateurViaAPIJFrame$1.class
+jframes\AuthentificationJFrame$3.class
 models\Collaborateur.class
 jframes\MenuJFrame.class
 jframes\RechercheJFrame$5.class
@@ -61,7 +62,6 @@ jframes\ActionJframe$2.class
 jframes\MenuAdminJFrame$1.class
 jframes\SettingsJFrame$1.class
 jframes\AdresseJframe$3.class
-com\mycompany\mavenproject2\ApplicationMain.class
 jframes\EmpreinteJFrame$4.class
 models\Action.class
 jframes\CollaborateurJframe$4.class
